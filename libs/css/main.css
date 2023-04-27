@@ -1,0 +1,33 @@
+body{
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: #f1f2f7;
+  height: 100%;
+  width: 100%;
+}a{
+  color: #777;
+  text-decoration: none;
+}
+
+.data_fields{
+  width: 40%;
+}
+
+
+select{
+  margin: 10px 0 10px 0;
+}
+
+.leftpush{
+  margin-left: 15px;
+}
+
+.pushright{
+  margin-left: -15px;
+}
+
+.index{
+  background-color: blueviolet;
+}
